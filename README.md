@@ -18,18 +18,18 @@ This repository contains a collection of Python scripts that I have written to l
 2. Create a virtual environment
 3. Activate the virtual environment
 
-```
+```bash
 pip install virtualenv
 python -m venv python-learning
 source python-learning/bin/activate
 ```
 
 #### Check the environment is activated
-```
+```bash
 which python
 ```
 
 ### Deactivate Virtual Environment
-```
+```bash
 deactivate
 ```
